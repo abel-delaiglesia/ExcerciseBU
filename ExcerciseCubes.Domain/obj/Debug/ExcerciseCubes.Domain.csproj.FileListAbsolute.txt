@@ -1,0 +1,9 @@
+C:\Users\josea\source\repos\WebAppCubes\ExcerciseCubes.Domain\obj\Debug\ExcerciseCubes.Domain.csprojAssemblyReference.cache
+C:\Users\josea\source\repos\WebApiCubes\ExcerciseCubes.Domain\obj\Debug\ExcerciseCubes.Domain.csprojAssemblyReference.cache
+C:\Users\josea\source\repos\WebApiCubes\ExcerciseCubes.Domain\bin\Debug\ExcerciseCubes.Domain.dll
+C:\Users\josea\source\repos\WebApiCubes\ExcerciseCubes.Domain\bin\Debug\ExcerciseCubes.Domain.pdb
+C:\Users\josea\source\repos\WebApiCubes\ExcerciseCubes.Domain\bin\Debug\ExcerciseCubes.Domain.Entities.dll
+C:\Users\josea\source\repos\WebApiCubes\ExcerciseCubes.Domain\bin\Debug\ExcerciseCubes.Domain.Entities.pdb
+C:\Users\josea\source\repos\WebApiCubes\ExcerciseCubes.Domain\obj\Debug\ExcerciseCubes.Domain.csproj.CopyComplete
+C:\Users\josea\source\repos\WebApiCubes\ExcerciseCubes.Domain\obj\Debug\ExcerciseCubes.Domain.dll
+C:\Users\josea\source\repos\WebApiCubes\ExcerciseCubes.Domain\obj\Debug\ExcerciseCubes.Domain.pdb
